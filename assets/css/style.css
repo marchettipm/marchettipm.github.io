@@ -1,0 +1,42 @@
+body{
+	
+}
+
+header{
+	font-family: 'Georgia', Times, Times New Roman, serif;
+
+
+
+}
+
+.head h1{
+	background-color: #4aaaa5;
+	font-size: 30px;
+	padding: 30px 30px 30px 30px;
+}
+
+nav{
+	background-color: white
+
+
+}
+
+
+
+
+
+
+
+.body{
+	background-color: white
+
+}
+
+.aboutme{
+
+}
+
+#selfie{
+	height: 120px;
+	width: 155px;
+}
